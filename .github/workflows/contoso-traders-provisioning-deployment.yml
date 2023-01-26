@@ -1,6 +1,7 @@
 name: contoso-traders-app-deployment
 #test ado connectionction
 #again !!!
+#and finally
 on:
   workflow_dispatch:
   push:
